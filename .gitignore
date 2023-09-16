@@ -1,0 +1,5 @@
+*.txt
+*.png
+demo4.json
+/data
+/data2/*.json
